@@ -1,0 +1,4 @@
+baseURL = "http://itome.team/"
+languageCode = "ja-jp"
+title = "My New Hugo Site"
+theme = "paper"
