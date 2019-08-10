@@ -1,7 +1,7 @@
 ---
 title: "Androidネイティブアプリ開発者から見たFlutter"
 date: 2019-08-08T05:10:31+09:00
-draft: true
+draft: false
 ---
 
 ![Flutter logo](./flutter_logo.png)
