@@ -1,4 +1,3 @@
 baseURL = "https://itome.team/"
 languageCode = "ja-jp"
 title = "itome team blog"
-theme = "paper"
