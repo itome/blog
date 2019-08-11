@@ -2,3 +2,13 @@ baseURL = "https://itome.team/"
 languageCode = "ja-jp"
 title = "itome team blog"
 hasCJKLanguage = true
+
+[params]
+  description = "itome(@itometeam)の技術ブログです。"
+  image = "/img/title.png"
+  [author]
+    jp = "塚本 武志"
+    en = "Takeshi Tsukamoto"
+    description = ""
+  twitter = "itometeam"
+  github = "itome"
