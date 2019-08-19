@@ -2,6 +2,8 @@ baseURL = "https://itome.team/"
 languageCode = "ja-jp"
 title = "itome team blog"
 hasCJKLanguage = true
+pygmentsUseClasses = true
+pygmentsCodefences = true
 
 [params]
   description = "itome(@itometeam)の技術ブログです。"

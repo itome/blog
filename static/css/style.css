@@ -423,62 +423,6 @@ img {
   font-size: 14px;
   text-align: left;
 }
-.post-content pre {
-  margin-top: 0;
-  background: transparent !important;
-  line-height: 1.7;
-}
-.post-content pre code {
-  margin-left: 0;
-  margin-right: 0;
-  padding: 20px;
-  white-space: inherit;
-}
-.post-content code {
-  margin-left: 4px;
-  margin-right: 4px;
-  padding: 4px 6px;
-  font-family: Menlo, Monaco, 'Courier New', Courier, monospace;
-  font-size: 0.8em;
-  white-space: pre-wrap;
-  background: #f7f7f8;
-  border-radius: 2px;
-}
-
-.post-content .highlight {
-  margin-bottom: 32px;
-  background: #f7f7f8;
-  border-radius: 2px;
-  overflow-x: auto;
-}
-.post-content .highlight table,
-.post-content .highlight pre {
-  margin-bottom: 0;
-}
-.post-content .highlight code {
-  background: transparent;
-}
-.post-content .highlight table {
-  width: auto;
-}
-.post-content .highlight table td {
-  padding: 0;
-  border-bottom: 0;
-}
-.post-content .highlight table td:first-child pre code {
-  padding-right: 16px;
-  color: var(--tertiary);
-  text-align: right;
-}
-.post-content .highlight table td:last-child pre code {
-  padding-left: 0;
-  overflow: hidden;
-}
-.post-content .highlight .ln {
-  margin-right: 16px;
-  color: var(--tertiary);
-}
-
 .post-content blockquote {
   margin: 0 0 0 calc(var(--gap) * -1);
   padding: 0 0 0 21px;

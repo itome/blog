@@ -15,7 +15,7 @@ Rustは最近ようやくちゃんと触り始めたのですが、かなりい�
 
 ## 進捗
 とりあえずカッコ付き四則演算ができるようになりました。
-```
+```text
 try 0 0
 try 42 42
 try 90 '(12 + 3) * 6'
@@ -40,10 +40,10 @@ try 5 '20+(-3*5)'
 再帰下降構文解析は初めてやったのですが、BNFによる生成規則と実装がきれいに結びついていて感動しました。
 
 #### 足し算と引き算
-```
+```text
 expr  = mul ("+" mul | "-" mul)*
 ```
-```
+```rust
 fn expr(tokens: &mut Vec<Token>) -> Self {
     let mut node = Node::mul(tokens);
 
@@ -73,10 +73,10 @@ fn expr(tokens: &mut Vec<Token>) -> Self {
 ```
 
 #### 掛け算と割り算
-```
+```text
 mul   = unary ("*" unary | "/" unary)*
 ```
-```
+```rust
 fn mul(tokens: &mut Vec<Token>) -> Self {
     let mut node = Node::unary(tokens);
 
@@ -106,10 +106,10 @@ fn mul(tokens: &mut Vec<Token>) -> Self {
 ```
 
 #### 単項演算子
-```
+```text
 unary = ("+" | "-")? term
 ```
-```
+```rust
 fn unary(tokens: &mut Vec<Token>) -> Self {
     let token = &tokens[0];
     match token.operator {
@@ -129,10 +129,10 @@ fn unary(tokens: &mut Vec<Token>) -> Self {
 ```
 
 #### 最小単位の各項(各項がカッコに囲まれた式であった場合は、再帰的に評価する)
-```
+```text
 term  = num | "(" expr ")"
 ```
-```
+```rust
 fn term(tokens: &mut Vec<Token>) -> Self {
     if tokens[0].operator == Some('(') {
         let close_index = tokens
