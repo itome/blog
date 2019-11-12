@@ -1,0 +1,15 @@
+h1 {
+  font-size: 2.4em;
+}
+
+p {
+  line-height: 1.8;
+}
+
+.content h2 {
+  margin: 2em auto 1em;
+}
+
+.content h3 {
+  margin: 1.6em auto 1em;
+}
