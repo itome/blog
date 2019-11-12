@@ -270,13 +270,13 @@ extension MyFancyList<T> on List<T> {
 外部ライブラリを読み込みたいときは、 `import` 文を使います。
 
 ```dart
-import `pakcage:{package_name}/{file_path}.dart`;
+import 'pakcage:{package_name}/{file_path}.dart';
 ```
 
 例えばFlutterのMaterial Widgetをimportするときは以下のようになります。
 
 ```dart
-import `package:flutter/material.dart`;
+import 'package:flutter/material.dart';
 ```
 
 プロジェクト内の他のファイルを使いたいときは、絶対パスでimportする方法と相対パスでimportする方法があります。
@@ -295,9 +295,9 @@ project_name
 ↑のようなディレクトリ構造で、 `a.dart` に `d.dart` をインポートしたいときは以下のようにできます。
 
 ```dart
-import `package:project_name/c/d.dart`;
+import 'package:project_name/c/d.dart';
 
 // もしくは
-import `./c/d.dart`;
+import './c/d.dart';
 ```
 

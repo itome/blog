@@ -1,16 +1,59 @@
-baseURL = "https://itome.team/"
+baseURL = "https://itome.team"
 languageCode = "ja-jp"
 title = "itome team blog"
+theme = "hermit"
+enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
 hasCJKLanguage = true
-pygmentsUseClasses = true
-pygmentsCodefences = true
+rssLimit = 10  # Maximum number of items in the RSS feed.
+enableEmoji = true
+# googleAnalytics = "UA-123-45"
+
+[author]
+  name = "Takeshi Tsukamoto"
+
+[taxonomies]
+  tag = "tags"
 
 [params]
-  description = "itome(@itometeam)の技術ブログです。"
-  image = "/img/title.png"
-  [author]
-    jp = "塚本 武志"
-    en = "Takeshi Tsukamoto"
-    description = ""
-  twitter = "itometeam"
-  github = "itome"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  themeColor = "#494f5c"
+  homeSubtitle = "itome(@itometeam)の技術ブログです。"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  gitUrl = "https://github.com/itome/repository/commit/"
+
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  relatedPosts = true  # Add a related content section to all single posts page
+
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+  
+  # Add custom css
+  # customCSS = ["css/foo.css", "css/bar.css"]
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/itometeam"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/itome"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "blog/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about-hugo/"
+    weight = 20
