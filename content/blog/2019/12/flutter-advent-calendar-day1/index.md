@@ -18,7 +18,7 @@ draft: true
 - **12月03日** すぐにFlutterを始めたい人のためのDart入門(前編)
 - **12月04日** すぐにFlutterを始めたい人のためのDart入門(後編)
 - **12月05日** FlutterのWidgetが画面に描画されるまでを理解する
-- **12月06日** FlutterのInheritedWidgetとBuildContextを理解する
+- **12月06日** FlutterのBuildContextとInheritedWidgetを理解する
 - **12月07日** FlutterのProviderパッケージを使いこなす
 - **12月08日** Flutterのパフォーマンスを改善する
 - **12月09日** FlutterのBoxConstraintsを理解する
