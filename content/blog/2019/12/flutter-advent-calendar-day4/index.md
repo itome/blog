@@ -301,3 +301,34 @@ import 'package:project_name/c/d.dart';
 import './c/d.dart';
 ```
 
+### pubspec.yaml
+依存ライブラリの指定などのプロジェクト管理は、 `pubspec.yaml` ファイルで行います。
+FlutterSDKのバージョン、アプリのバージョン、アプリ名、画像などの外部アセットの読み込みなどをこのファイルで指定します。
+Nodeに触れたことのある人であれば、npmの `package.json` と同じようなものです。
+
+依存ライブラリの指定は以下のように書きます。
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+```
+
+`dependencies` と `dev_dependencies` がありますが、`dev_dependencies` は
+テストやLintツール、Utility系のパッケージなど、成果物のアプリに含まれないパッケージです。
+
+以下のコマンドで、依存パッケージのインストールができます。
+
+`$ flutter pub get`
+
+パッケージのインストールをすると、 `pubspec.lock` が自動生成されます。
+これは、実際にインストールしたパッケージのバージョンを固定するもので、
+開発環境によるパッケージのバージョンのばらつきを防ぐためのものです。特に理由がなければバージョン管理対象に含めましょう。
