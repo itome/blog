@@ -24,6 +24,7 @@ Flutterには開発を効率化させるツールが多く用意されていま�
 
 Flutterプラグインを入れることで開発環境をセットアップすることができます。
 他のエディタにはない機能も多いので、特に事情がなければAndroid Studioを選んでおくのがいいです。
+たとえば、AndroidStudioにはWidgetの再ビルドをWidgetごとに監視できるGUIがついています。
 
 - Visual Studio Code
 
@@ -40,7 +41,6 @@ dart_analysis_serverはLanguage Server Protocolに対応しているので、Lan
 #### QuickFix
 
 Widgetで囲む、Widgetを削除する、Widgetの親子関係を入れ替えるなどの頻繁に行う編集を自動化してくれます。
-
 ![QuickFix](./add-padding.gif)
 
 #### Snippet
