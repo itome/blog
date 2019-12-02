@@ -1,7 +1,7 @@
 ---
 title: "Flutterのツールを使いこなして開発効率を上げる"
-date: 2019-11-06T14:40:06+09:00
-draft: true
+date: 2019-12-02T11:25:00+09:00
+draft: false
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 2日目の記事です。
@@ -100,3 +100,9 @@ Dartのフォーマッタです。 `dartfmt` コマンドでコードの整形�
 ![Using trailing comma](./using-trailing-comma.png)
 
 https://flutter.dev/docs/development/tools/formatting#using-trailing-commas
+
+> **1日目** :
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day1
+>
+> **3日目** :
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day3
