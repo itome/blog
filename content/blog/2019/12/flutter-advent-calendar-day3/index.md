@@ -1,7 +1,7 @@
 ---
 title: "すぐにFlutterを始めたい人のためのDart入門(前編)"
 date: 2019-11-07T12:15:01+09:00
-draft: true
+draft: false
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 3日目の記事です。
@@ -378,4 +378,11 @@ enum Color {
 
 #### 4日目の記事につづきます。
 
-> https://itome.team/blog/2019/12/flutter-advent-calendar-day4/
+<br>
+
+> **2日目: Flutterのツールを使いこなして開発効率を上げる** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day2
+>
+> **4日目: すぐにFlutterを始めたい人のためのDart入門(後編)** :
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day4

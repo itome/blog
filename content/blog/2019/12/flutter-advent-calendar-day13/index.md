@@ -93,6 +93,7 @@ $ flutter create --template=plugin -i swift -a kotlin platform_view_sample
 まず、`PlatformView`を継承したViewを作りましょう。本来は`getView`メソッドと`dispose`メソッドを
 `override`するだけでいいですが、`MethodChannel`を使って`setText`を呼び出す実装も追加しています。
 こうすることで、Flutter側のコードから動的に値を書き換えることができるようになります。
+(`MethodChannel`については[14日目の記事](https://itome.team/blog/2019/12/flutter-advent-calendar14)で紹介します。)
 
 ```kotlin
 import android.content.Context
@@ -279,8 +280,11 @@ Androidの`TextView`を使って`"Hello this is Android Text View"`の部分は�
 ある場合は重宝します。まだDeveloperPreviewの段階ですが、Flutterの可能性を大きく広げる機能だと思っているので
 これからが楽しみです。
 
-> **12日目** :
+<br>
+
+>
+> **12日目: FlutterのThemeを理解する**
 > https://itome.team/blog/2019/12/flutter-advent-calendar-day12
 >
-> **14日目** :
+> **14日目: FlutterでAndroid/iOSのネイティブのAPIを使う**
 > https://itome.team/blog/2019/12/flutter-advent-calendar-day14

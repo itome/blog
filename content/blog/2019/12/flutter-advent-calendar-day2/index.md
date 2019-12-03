@@ -101,8 +101,12 @@ Dartのフォーマッタです。 `dartfmt` コマンドでコードの整形�
 
 https://flutter.dev/docs/development/tools/formatting#using-trailing-commas
 
-> **1日目** :
+<br>
+
+> **1日目: Flutterとはなにか** :
+>
 > https://itome.team/blog/2019/12/flutter-advent-calendar-day1
 >
-> **3日目** :
+> **3日目: すぐにFlutterを始めたい人のためのDart入門(前編)** :
+
 > https://itome.team/blog/2019/12/flutter-advent-calendar-day3
