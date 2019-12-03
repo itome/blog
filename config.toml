@@ -35,6 +35,8 @@ enableEmoji = true
   relatedPosts = true  # Add a related content section to all single posts page
 
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
+
+  images = ["/img/title.png"]
   
   # Add custom css
   # customCSS = ["css/foo.css", "css/bar.css"]

@@ -1,7 +1,7 @@
 ---
 title: "すぐにFlutterを始めたい人のためのDart入門(後編)"
-date: 2019-11-08T13:20:01+09:00
-draft: true
+date: 2019-12-04T16:00:00+09:00
+draft: false
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 4日目の記事です。

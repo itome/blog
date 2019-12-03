@@ -2,6 +2,7 @@
 title: "すぐにFlutterを始めたい人のためのDart入門(前編)"
 date: 2019-11-07T12:15:01+09:00
 draft: false
+images: ["/blog/2019/12/flutter-advent-calendar-day3/mixin.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 3日目の記事です。
