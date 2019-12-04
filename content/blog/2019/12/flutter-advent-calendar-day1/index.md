@@ -2,7 +2,6 @@
 title: "Flutterとはなにか"
 date: 2019-12-01T11:52:00+09:00
 draft: false
-images: ["/blog/2019/12/flutter-advent-calendar-day1/flutter_overview.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 1日目の記事です。
