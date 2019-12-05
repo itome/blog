@@ -1,7 +1,7 @@
 ---
 title: "Flutterのサンプルアプリが画面に描画されるまで"
-date: 2019-11-11T11:26:54+09:00
-draft: true
+date: 2019-12-05T11:00:00+09:00
+draft: false
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 5日目の記事です。
