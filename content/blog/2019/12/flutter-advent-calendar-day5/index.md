@@ -2,6 +2,7 @@
 title: "Flutterのサンプルアプリが画面に描画されるまで"
 date: 2019-12-05T11:00:00+09:00
 draft: false
+images: ["/blog/2019/12/flutter-advent-calendar-day5/convert_widget_tree_to_element_tree.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 5日目の記事です。
@@ -163,3 +164,12 @@ Widget build(BuildContext context) {
 
 今回はFlutter Framework内の「画面に表示されるまで」の紹介だったので `RenderObject` まで紹介しましたが、
 実際に開発をしていて `RenderObject` が必要になることはまれです。
+
+<br>
+
+> **4日目: すぐにFlutterを始めたい人のためのDart入門(後編)** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day4
+>
+> **6日目: FlutterのBuildContextとInheritedWidgetを理解する** :
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day6

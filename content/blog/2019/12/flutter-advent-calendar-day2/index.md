@@ -2,6 +2,7 @@
 title: "Flutterのツールを使いこなして開発効率を上げる"
 date: 2019-12-02T11:25:00+09:00
 draft: false
+images: ["/blog/2019/12/flutter-advent-calendar-day2/using-trailing-comma.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 2日目の記事です。

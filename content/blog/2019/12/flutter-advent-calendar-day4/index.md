@@ -1,7 +1,7 @@
 ---
 title: "すぐにFlutterを始めたい人のためのDart入門(後編)"
-date: 2019-11-08T13:20:01+09:00
-draft: true
+date: 2019-12-04T12:00:00+09:00
+draft: false
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 4日目の記事です。
@@ -332,3 +332,12 @@ dev_dependencies:
 パッケージのインストールをすると、 `pubspec.lock` が自動生成されます。
 これは、実際にインストールしたパッケージのバージョンを固定するもので、
 開発環境によるパッケージのバージョンのばらつきを防ぐためのものです。特に理由がなければバージョン管理対象に含めましょう。
+
+<br>
+
+> **3日目: すぐにFlutterを始めたい人のためのDart入門(前編)** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day3
+>
+> **5日目: FlutterのWidgetが画面に描画されるまでを理解する** :
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day5
