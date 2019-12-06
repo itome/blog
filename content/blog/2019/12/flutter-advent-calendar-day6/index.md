@@ -1,9 +1,9 @@
 ---
 title: "FlutterのBuildContextとInheritedWidgetを理解する"
-date: 2019-11-12T16:35:14+09:00
-draft: true
+date: 2019-12-06T12:00:00+09:00
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day6/scaffold_of.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 6日目の記事です。
@@ -214,3 +214,12 @@ class _MyHomePageState extends State<MyHomePage> {
 
 先にも書いた通り、 `Flutter` 公式で、この機能をラップした `Provider` パッケージが提供されているので、
 理由がない限りそちらを使う方がいいでしょう。
+
+<br>
+
+> **5日目: FlutterのWidgetが画面に描画されるまでを理解する** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day5
+>
+> **7日目: FlutterのProviderパッケージを使いこなす** :
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day7
