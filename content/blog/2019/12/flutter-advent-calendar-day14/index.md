@@ -45,17 +45,7 @@ Dartとネイティブ側で、チャンネル名を使って同じ`MethodChanne
 | Float64List                | double[]            | FlutterStandardTypedData typedDataWithFloat64: |
 | List                       | java.util.ArrayList | NSArray                                        |
 | Map                        | java.util.HashMap   | NSDictionary                                   |
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		
-		
 
-
-
+## 実際に実装してみる
+今回はFlutterのアプリからOSのダークモードを有効にするネイティブのAPIにアクセスできるようなコードを書いていきましょう。
+対象はバージョン10以上のAndroidとします。
