@@ -1,9 +1,9 @@
 ---
 title: "FlutterのProviderパッケージを使いこなす"
-date: 2019-11-13T18:45:50+09:00
-draft: true
+date: 2019-12-07T12:00:00+09:00
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day7/provider_observe.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 7日目の記事です。
@@ -316,3 +316,12 @@ class CounterText extends StatelessWidget {
 これで、カウンターアプリの完成です。 `Provider` パッケージを正しく使うと、状態管理がわかりやすく、かつパフォーマンスにもすぐれたアプリを作ることができます。
 
 ![サンプルアプリ](./sample_app.gif)
+
+<br>
+
+> **6日目: FlutterのBuildContextとInheritedWidgetを理解する** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day6
+>
+> **8日目: Flutterのパフォーマンスを改善する** :
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day8
