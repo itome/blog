@@ -1,9 +1,9 @@
 ---
 title: "Flutterのパフォーマンスを改善する"
 date: 2019-11-18T15:36:22+09:00
-draft: true
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day8/performance_with_const.gif"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 1日目の記事です。
@@ -364,3 +364,12 @@ Dartのクラスを使ってWidgetを組み立てるスタイルのFlutterにと
 ## パフォーマンスチューニングとの向き合い方
 基本的に `const` 指定と、状態変更の影響範囲、 `ListView` のitemへの `Key` 指定に気を付けるだけで十分にパフォーマンスのいいアプリを開発することができます。
 それ以外のパフォーマンス改善のテクニックはあくまで必要になったときにできれば十分です。
+
+<br>
+
+> **7日目: FlutterのProviderパッケージを使いこなす** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day7
+>
+> **9日目: FlutterのBoxConstraintsを理解する** :
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day9
