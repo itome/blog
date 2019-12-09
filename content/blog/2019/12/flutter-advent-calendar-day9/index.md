@@ -1,9 +1,9 @@
 ---
 title: "FlutterのBoxConstraintsを理解する"
-date: 2019-11-19T23:13:13+09:00
-draft: true
+date: 2019-12-09T00:00:00+09:00
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day9/constraints.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 9日目の記事です。
@@ -144,3 +144,13 @@ Flutterの初心者の人がよくつまづいているエラーで、実際筆�
 
 このエラーは同じ方向にWidgetを並べるWidgetをネストしたときに起こるものなので、
 Widgetの関係を整理して、ネストをなくすことで解決できます。
+
+<br>
+
+> **8日目: Flutterのパフォーマンスを改善する** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day8
+>
+> **10日目: FlutterのNavigationとRoutingを理解する** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day10
