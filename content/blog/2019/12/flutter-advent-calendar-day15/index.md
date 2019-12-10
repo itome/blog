@@ -265,7 +265,7 @@ var _controller = AnimationController(vsync: this, ...);
 `Animatable`を継承したクラスで、`ColorTween`のようにさらに継承して使います。
 初期値と最後の値を決めて自動的に中間の値を補完してアニメーションしてくれます。
 
-![明日の記事](https://itome.team/blog/2019/12/flutter-advent-calendar-day16)では、
+[明日の記事](https://itome.team/blog/2019/12/flutter-advent-calendar-day16)では、
 これらの基本の道具を使って応用的なアニメーションを作っていきます。
 
 <br/>
