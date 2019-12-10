@@ -1,9 +1,9 @@
 ---
 title: "FlutterのNavigationとRoutingを理解する"
-date: 2019-11-20T18:25:10+09:00
-draft: true
+date: 2019-12-10T00:00:00+09:00
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day10/navigator_replace.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 10日目の記事です。
@@ -271,3 +271,13 @@ class SlidePageRoute extends PageRouteBuilder {
 ```
 
 ![SlidePageRoute](./slide_page_route.gif)
+
+<br>
+
+> **9日目: FlutterのBoxConstraintsを理解する** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day9
+>
+> **11日目: Flutterを既存のAndroid/iOSアプリに組み込む** :
+
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day11
