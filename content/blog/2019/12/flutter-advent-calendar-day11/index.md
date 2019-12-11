@@ -1,9 +1,9 @@
 ---
 title: "Flutterを既存のAndroid/iOSアプリに組み込む"
-date: 2019-11-25T14:53:16+09:00
-draft: true
+date: 2019-12-11T00:00:00+09:00
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day11/flutter_activity_with_cache.gif"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 11日目の記事です。
@@ -259,3 +259,13 @@ present(flutterViewController, animated: false, completion: nil)
 ホストとFlutterの間に抽象層を設けてくれます。
 
 どのような方法をとるにせよ、まだまだクリアしないといけない課題が多い機能です。採用するときはぜひ慎重に。
+
+<br>
+
+> **10日目: FlutterのNavigationとRoutingを理解する** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day10
+>
+> **12日目: FlutterのThemeを理解する** :
+
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day12
