@@ -1,9 +1,9 @@
 ---
 title: "FlutterのThemeを理解する"
-date: 2019-11-28T16:14:17+09:00
-draft: true
+date: 2019-12-12T00:00:00+09:00
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day12/ink_well.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 12日目の記事です。
@@ -178,3 +178,14 @@ Flutterでは`Theme`を使って簡単にダークテーマに対応すること
 | `bannerTheme`                | `MaterialBanner`Widgetの`Theme`です。                                                                                                                                                             |
 | `dividerTheme`               | `Divider`Widgetの`Theme`です。色やサイズなどを指定できます。                                                                                                                                      |
 | `buttonBarTheme`             | `ButtonBar`Widgetの`Theme`です。サイズなどを指定できます。                                                                                                                                                           |
+
+
+<br>
+
+> **11日目: Flutterを既存のAndroid/iOSアプリに組み込む** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day11
+>
+> **13日目: FlutterのPlatformViewを理解する** :
+>
+> https://itome.team/blog/2019/12/flutter-advent-calendar-day13
