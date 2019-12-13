@@ -1,9 +1,9 @@
 ---
 title: "FlutterのPlatformViewを理解する"
-date: 2019-12-02T17:59:59+09:00
-draft: true
+date: 2019-12-13T00:00:00+09:00
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day13/platform_view.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 13日目の記事です。
