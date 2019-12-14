@@ -1,7 +1,7 @@
 ---
 title: "FlutterでAndroid/iOSのネイティブのAPIを使う"
 date: 2019-12-14T12:00:00+09:00
-draft: true
+draft: false
 comments: true
 images: ["/blog/2019/12/flutter-advent-calendar-day14/platform_channels.png"]
 ---
