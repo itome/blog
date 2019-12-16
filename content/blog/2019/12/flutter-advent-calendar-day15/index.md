@@ -1,8 +1,8 @@
 ---
 title: "Flutterのアニメーションを理解する(前編)"
-date: 2019-12-01T00:00:00+09:00
-draft: true
-images:
+date: 2019-12-15T00:00:00+09:00
+draft: false
+images: ["/blog/2019/12/flutter-advent-calendar-day15/animated_builder.gif"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 15日目の記事です。

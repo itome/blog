@@ -1,9 +1,8 @@
 ---
 title: "Flutterのアニメーションを理解する(後編)"
-date: 2019-12-10T17:05:31+09:00
-draft: true
+date: 2019-12-16T00:00:00+09:00
+draft: false
 comments: true
-images:
 ---
 
 ## 応用的なアニメーションを作る手順
