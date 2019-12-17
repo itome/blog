@@ -1,9 +1,9 @@
 ---
 title: "Flutterのアニメーションを使いこなしてカラーピッカーを実装する"
-date: 2019-12-11T13:23:13+09:00
-draft: true
+date: 2019-12-17T00:00:00+09:00
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day17/flutter_circle_color_picker.gif"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 1日目の記事です。
