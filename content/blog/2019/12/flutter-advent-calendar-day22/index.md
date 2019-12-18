@@ -3,7 +3,7 @@ title: "Flutterのアプリ設計(Redux)"
 date: 2019-12-18T16:43:08+09:00
 draft: true
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day22/flutter_with_redux.png"]
 ---
 
 

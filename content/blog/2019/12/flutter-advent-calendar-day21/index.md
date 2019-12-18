@@ -3,7 +3,7 @@ title: "Flutterのアプリ設計(Bloc)"
 date: 2019-12-18T00:00:00+09:00
 draft: true
 comments: true
-images: ["/blog/2019/12/flutter-advent-calendar-day21/counter_model_scope.png"]
+images: ["/blog/2019/12/flutter-advent-calendar-day21/flutter_with_bloc.png"]
 ---
 
 この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 1日目の記事です。
