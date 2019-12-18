@@ -1,7 +1,7 @@
 ---
 title: "Flutterのアクセシビリティを理解する"
 date: 2019-12-18T00:00:00+09:00
-draft: true
+draft: false
 comments: true
 images: ["/blog/2019/12/flutter-advent-calendar-day18/accessibility_inspector.png"]
 ---
