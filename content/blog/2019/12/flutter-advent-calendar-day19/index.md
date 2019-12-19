@@ -1,9 +1,9 @@
 ---
 title: "FlutterのInternationalization対応"
-date: 2019-12-13T17:15:56+09:00
-draft: true
+date: 2019-12-19T00:00:00+09:00
+draft: false
 comments: true
-images:
+images: ["/blog/2019/12/flutter-advent-calendar-day19/eyecatch.png"]
 ---
 
 この記事は([Flutter 全部俺 Advent Calendar])(https://adventar.org/calendars/4140) 1日目の記事です。
