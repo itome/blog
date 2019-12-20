@@ -1,7 +1,7 @@
 ---
 title: "Flutterのテスト"
-date: 2019-12-16T14:02:26+09:00
-draft: true
+date: 2019-12-20T00:00:00+09:00
+draft: false
 comments: true
 images: ["/blog/2019/12/flutter-advent-calendar-day20/eyecatch.png"]
 ---
