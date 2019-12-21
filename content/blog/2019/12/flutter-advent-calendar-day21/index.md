@@ -1,7 +1,7 @@
 ---
 title: "Flutterのアプリ設計(Bloc)"
-date: 2019-12-18T00:00:00+09:00
-draft: true
+date: 2019-12-21T00:00:00+09:00
+draft: false
 comments: true
 images: ["/blog/2019/12/flutter-advent-calendar-day21/flutter_with_bloc.png"]
 ---
