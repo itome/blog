@@ -93,5 +93,9 @@ FlutterでもAOTコンパイルがされていますが、AOTコンパイルす�
 ## 参考
 - https://github.com/flutter/flutter/wiki/The-Engine-architecture
 
-## 2日目の記事
+<br>
+
+> **2日目の記事** :
+>
 > https://itome.team/blog/2019/12/flutter-advent-calendar-day2
+>
