@@ -1,7 +1,7 @@
 ---
 title: "Flutterのアプリ設計(Mobx)"
-date: 2019-12-20T13:33:51+09:00
-draft: true
+date: 2019-12-23T00:00:00+09:00
+draft: false
 comments: true
 images: ["/blog/2019/12/flutter-advent-calendar-day23/flutter_with_mobx.png"]
 ---
