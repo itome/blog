@@ -6,7 +6,7 @@ comments: true
 images: ["/blog/2019/12/flutter-advent-calendar-day14/platform_channels.png"]
 ---
 
-この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 1日目の記事です。
+この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 14日目の記事です。
 
 
 ## このアドベントカレンダーについて

@@ -5,6 +5,13 @@ draft: false
 comments: true
 ---
 
+この記事は[Flutter 全部俺 Advent Calendar](https://adventar.org/calendars/4140) 16日目の記事です。
+
+## このアドベントカレンダーについて
+このアドベントカレンダーは [@itome](https://twitter.com/itometeam) が全て書いています。
+
+基本的にFlutterの公式ドキュメントとソースコードを参照しながら書いていきます。誤植や編集依頼はTwitterにお願いします。
+
 ## 応用的なアニメーションを作る手順
 Flutterのカスタムアニメーションを作るときは、
 
