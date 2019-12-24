@@ -1,7 +1,7 @@
 ---
 title: "Flutterの自作パッケージを作る"
-date: 2019-12-20T16:42:15+09:00
-draft: true
+date: 2019-12-24T00:00:00+09:00
+draft: false
 comments: true
 images: ["/blog/2019/12/flutter-advent-calendar-day24/eyecatch.png"]
 ---
