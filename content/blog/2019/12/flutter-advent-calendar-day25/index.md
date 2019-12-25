@@ -1,7 +1,7 @@
 ---
 title: "Flutter for WebとFlutterのこれから"
-date: 2019-12-23T17:14:38+09:00
-draft: true
+date: 2019-12-25T00:00:00+09:00
+draft: false
 comments: true
 images: ["/blog/2019/12/flutter-advent-calendar-day25/eyecatch.png"]
 ---
