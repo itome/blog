@@ -1,6 +1,6 @@
 ---
 title: "Flutterのパフォーマンスを改善する"
-date: 2019-11-18T15:36:22+09:00
+date: 2019-12-08T00:00:00+09:00
 draft: false
 comments: true
 images: ["/blog/2019/12/flutter-advent-calendar-day8/performance_with_const.gif"]
