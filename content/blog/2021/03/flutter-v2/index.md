@@ -20,7 +20,7 @@ Flutter for WebではWebassemblyとSkiaを使って直接CanvasにUIを描画す
 これは従来のdomを直接操作する方法と比べてパフォーマンスに優れ、モバイル版との差異も少ないレンダリング方法ですが、
 Skiaをダウンロードしないといけないため、ダウンロードサイズが2mb増加します。
 
-どちらのレンダリング方法を洗濯するかは開発者が選択でき、デフォルトではモバイルの場合は従来の手法を使い、デスクトップの場合にはCanvasKitを使うように設定されています。
+どちらのレンダリング方法を選択するかは開発者が選択でき、デフォルトではモバイルの場合は従来の手法を使い、デスクトップの場合にはCanvasKitを使うように設定されています。
 
 > https://flutter.dev/docs/development/tools/web-renderers
 
@@ -29,6 +29,11 @@ Skiaをダウンロードしないといけないため、ダウンロードサ�
 <br/>
 
 Linuxでは、UbuntuがデフォルトのGUIフレームワークとしてFlutterを採用したり
+
+**※ ↓の記事にあるように、正確には「Ubuntuを運営するCanonicalが」Flutterをデフォルトの選択肢としただけで、
+Ubuntu上で動く全てのアプリがFlutter製になるわけではありません。**
+
+> https://zenn.dev/atsushieno/scraps/44366fe0564728
 
 {{<tweet 1367063203600031746>}}
 
@@ -103,7 +108,7 @@ Deprecatedになったコードの一覧表示、自動修正をしてくれる 
 
 以下の機能が追加されています。
 
-- Flutter DevToolsを起動前に、エラーが怒ったタイミングでIntellijやVSCodeコードがFlutter DevToolsの利用を提案してくれるようになった
+- Flutter DevToolsを起動前に、エラーが起こったタイミングでIntellijやVSCodeコードがFlutter DevToolsの利用を提案してくれるようになった
 
 - Flutter DevToolsのタブにエラーのバッジがつくようになった
 
